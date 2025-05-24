@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-05-23T23:54:45.521925",
+  "platform": "Linux",
+  "platform_release": "5.15.167.4-microsoft-standard-WSL2",
+  "platform_version": "#1 SMP Tue Nov 5 00:21:55 UTC 2024",
+  "architecture": "x86_64",
+  "processor": "x86_64",
+  "hostname": "Baobin-PC",
+  "python_version": "3.10.12",
+  "user": "baobin",
+  "home_directory": "/home/baobin",
+  "platform_detail": "Linux (WSL2)"
+}
